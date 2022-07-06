@@ -1,0 +1,10 @@
+.vscode/
+/build
+.DS_Store
+/node_modules
+npm-debug.log
+/components
+log.txt
+clarity.yml
+.nyc_output/
+coverage/
